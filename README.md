@@ -1,5 +1,4 @@
 # alc4forme
 
-首先感谢ACL4和BLACKMATRIX7两位大佬的无私分享。
+感谢ACL4、BLACKMATRIX7还有神机三位大佬的无私分享。
 
-自己对照ACL4大佬的Online_full_noauto规则修修改改。  
